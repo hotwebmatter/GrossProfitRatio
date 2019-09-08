@@ -90,12 +90,15 @@ namespace GrossProfitRatio
             GenerateHeader();
 
             // variable assignment
+            WriteLine();
             Write("Enter Gross Sales: ");
             input = ReadLine();
             grossSales = ReadInt(input);
+            WriteLine();
             Write("Enter Sales Return: ");
             input = ReadLine();
             salesReturns = ReadInt(input);
+            WriteLine();
             Write("Enter Cost of Goods Sold: ");
             input = ReadLine();
             costOfGoods = ReadInt(input);
