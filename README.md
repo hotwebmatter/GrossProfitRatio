@@ -1,5 +1,9 @@
 # GrossProfitRatio
-Fourth assignment to be submitted via Blackboard
+Fourth assignment to be submitted via Blackboard.
+
+Demonstrates usage of methods with void return type.
+
+I reused several of the void methods written for earlier assignments.
 
 ## Example output
 ```
