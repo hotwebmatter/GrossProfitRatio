@@ -34,6 +34,7 @@ namespace GrossProfitRatio
                 WriteLine(message);
             }
         }
+
         static int ReadInt(string input)
         {
             int choice;
@@ -60,6 +61,7 @@ namespace GrossProfitRatio
             RepeatChar("*", BANNER_WIDTH);
             WriteLine();
         }
+
         static void CalculateGPR(double grossSales, double salesReturns, double costOfGoods)
         {
             // initialize local variables
@@ -75,6 +77,7 @@ namespace GrossProfitRatio
             // output using percentage format specifier
             WriteLine("Gross Profit Ratio is >> {0:P1}", grossProfitRatio);
         }
+
         static void Main(string[] args)
         {
             // declare variables
