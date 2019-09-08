@@ -1,9 +1,9 @@
 ﻿/**
  * ######################################################
- * ##    Programming Assignment #3                     ##
+ * ##    Programming Assignment #4                     ##
  * ##    Developer: Matthew Obert                      ##
  * ##    Date Submitted: September 06 2019             ##
- * ##    Purpose: Demo floating-point arithmetic.      ##
+ * ##    Purpose: Demonstrate usage of void methods.   ##
  * ######################################################
  */
 
